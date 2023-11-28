@@ -1,6 +1,6 @@
 # Kaif Box
 
-![IMG](images/my_box.png)
+![IMG](images/my_box.jpg)
 
 
 ## Description
