@@ -1,6 +1,6 @@
-# f1copy
+# Kaif Box
 
-![IMG_3639](https://user-images.githubusercontent.com/24196838/171417082-901128eb-8d1a-4980-aebf-e7eaf796b705.jpg)
+![IMG](images/my_box.png)
 
 
 ## Description
@@ -11,11 +11,19 @@ This is uzi's design, I just added another up button and place for aliexpress us
 
 3xtop layer (optional)
 
+![IMG_1](images/top_layer.png)
+
 1xswitchplate
+
+![IMG_2](images/switchplate.png)
 
 2xmiddle layer
 
+![IMG_3](images/middle_layer.png)
+
 1xbottom plate
+
+![IMG_4](images/bottom_layer.png)
 
 ## Dimensions:
 
